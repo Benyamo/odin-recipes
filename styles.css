@@ -1,0 +1,26 @@
+
+
+
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #3F5968;
+}
+
+h1 {
+    background-color:goldenrod;
+    font-size: 50px;
+    text-align: center;
+}
+
+ul {
+    font-size: 18px;
+    color: #3F5968;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.image,
+.center-header,
+.description {
+    text-align: center;
+}
